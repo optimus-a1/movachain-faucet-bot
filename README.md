@@ -1,7 +1,3 @@
----
-
-````markdown
-# MovaChain Faucet Bot
 
 一个自动化的 **MovaChain Faucet 机器人**，用于批量请求测试币。  
 支持从地址文件读取钱包地址，并支持代理池功能（已集成 [IPRoyal 代理服务](https://iproyal.cn/?r=910103)）。
