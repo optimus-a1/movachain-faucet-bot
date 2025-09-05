@@ -7,7 +7,7 @@ import os
 
 # 代理配置
 PROXY = "geo.iproyal.com:12321"
-PROXY_AUTH = "改为你自己的代理"
+PROXY_AUTH = "改为你自己的代理用户名:密码"
 
 class FinalMarsFaucet:
     def __init__(self):
